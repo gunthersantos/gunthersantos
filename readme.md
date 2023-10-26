@@ -35,7 +35,7 @@
 -->
 
 # 💫 About Me:
-:point_right: I'm currently working on Senac<br> :mag_right: I'm looking to collaborate on development of new fullstack students<br> :rocket: I'm looking for help with investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
+:point_right: I'm currently working as Freelancer<br> :mag_right: I'm looking to collaborate on development of new fullstack students<br> :rocket: I'm looking for help with investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
 ## 🌐 Socials:
