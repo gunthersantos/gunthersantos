@@ -35,7 +35,7 @@
 -->
 
 # 💫 About Me:
-:point_right: Gig Brainly startup CEO <br> :mag_right: I'm looking improve the education arround all the worlds<br> :rocket: I'm looking for new investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
+:point_right: Gig Brainly startup CEO <br> :mag_right: I'm seeking improve the education around all the world<br> :rocket: I'm looking for new investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
 ## 🌐 Socials:
