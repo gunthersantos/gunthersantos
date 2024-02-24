@@ -2,7 +2,7 @@
 <!--<h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Software Development** na <a href="https://bowvalleycollege.ca/">Bow Valley College</a>.
+- 🎓 Estudando **Software Development at Bow Valley College** no <a href="https://bowvalleycollege.ca/">Canada</a>.
 
 ---
 
@@ -35,7 +35,7 @@
 -->
 
 # 💫 About Me:
-:point_right: I'm currently working as Freelancer<br> :mag_right: I'm looking to collaborate on development of new fullstack students<br> :rocket: I'm looking for help with investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
+:point_right: Gig Brainly startup CEO <br> :mag_right: I'm looking improve the education arround all the worlds<br> :rocket: I'm looking for new investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
 ## 🌐 Socials:
