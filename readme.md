@@ -1,12 +1,11 @@
 
-<!--<h3>Sobre mim</h3>
+<!--<h3>👋 Hello, I'm Gunther Santos!</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Software Development at Bow Valley College** no <a href="https://bowvalleycollege.ca/">Canada</a>.
+I'm a passionate Full Stack Web Developer with experience in front-end and back-end technologies, currently expanding my expertise in Software Development at Bow Valley College. I have a strong foundation in HTML, CSS, JavaScript, SQL, UX/UI, and love sharing my knowledge on my YouTube channel where I create engaging content on technology and programming.
 
 ---
 
-## 🚀 Minhas Skills
+## 💡 Key Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
@@ -16,10 +15,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c#/c#.png" alt="C#"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" alt="C++"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+
 
 ---
 
@@ -35,7 +35,7 @@
 -->
 
 # 💫 About Me:
-:point_right: Gig Brainly startup CEO <br> :mag_right: I'm seeking improve the education around all the world<br> :rocket: I'm looking for new investor to my startup<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
+:point_right: Gig Brainly startup CEO <br> :mag_right: I'm seeking improve the education around all the world<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
 ## 🌐 Socials:
