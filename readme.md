@@ -35,7 +35,7 @@ I'm a passionate Full Stack Web Developer with experience in front-end and back-
 -->
 
 # 💫 About Me:
-:point_right: Gig Brainly startup CEO <br> :mag_right: I'm seeking improve the education around all the world<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
+:point_right: Gig Brainly startup CEO <br> 📫 I am also a technical writer at Medium<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
 ## 🌐 Socials:
