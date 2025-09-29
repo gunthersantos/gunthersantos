@@ -34,7 +34,8 @@ I'm a passionate Full Stack Web Developer with experience in front-end and back-
 [![GitHub](https://img.shields.io/github/followers/gunthersantos?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/gunthersantos)https://github.com/gunthersantos)
 -->
 
-# 💫 About Me:
+<!--# 💫 About Me: -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 :point_right: Gig Brainly startup CEO <br> 📫 I am also a technical writer at Medium<br> :computer: I'm currently learning software development at Bow Valley college in Canadá<br> :robot: I love technology
 
 
