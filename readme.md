@@ -57,7 +57,7 @@ I'm a passionate Full Stack Web Developer with experience in front-end and back-
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,arduino,css,supabase,docker,postgres,bootstrap,cs,npm,androidstudio,php,figma,firebase,netlify,github,html,java,js,linux,vite,materialui,autocad,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,java,arduino,css,supabase,docker,postgres,bootstrap,cs,npm,androidstudio,php,figma,firebase,netlify,github,html,java,js,linux,vite,materialui,autocad,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
 
